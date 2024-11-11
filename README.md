@@ -1,2 +1,2 @@
 # Java_Learning
-Repository for java learning
+Repository to keep Java code samples
